@@ -1,0 +1,12 @@
+.react-tabs__tab--selected {
+	background-color: #F7A582;
+	border-radius: 10px;
+	padding: 18px 50px ;
+	outline: none;
+	color: #fff;
+}
+  
+.react-tabs__tab:focus:after {
+	content: none;
+}
+  

@@ -1,0 +1,14 @@
+.bgTabletFull {
+	background-image: url(../../../assets/tabletFull.png);
+	background-repeat: no-repeat;
+}
+
+.bgTabletBottom {
+	background-image: url(../../../assets/tabletBottom.png);
+	background-repeat: no-repeat;
+}
+
+.bgTabletTop {
+	background-image: url(../../../assets/tabletTop.png);
+	background-repeat: no-repeat;
+}
